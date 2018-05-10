@@ -16,8 +16,9 @@ The data is highly dispersed in different excel sheets. Multiple sheets from dif
  - A lot less girls are enrolled in schools to even start with. This gap quickly escalates around class 6th. The percentage decline in enrollment going to next class from the previous become much higher for girls then boys.
  ![Alt text](https://github.com/SusmeetJain/school_dropouts/blob/master/images/enollment_decrements.png)
  - States that have a bigger percentage of schools with toilets are able to retain more girls through higher classes. This correlation can clearly be observerd in the upward trend in the following graph. 
- Each point in the graph represents one state!
  ![Alt text](https://github.com/SusmeetJain/school_dropouts/blob/master/images/correlation.png)
+ Each point in the graph represents one state!
+ - The difference between dropout rates of girls and boys in Indian schools is a real problem. A simple solution such as having a proper toilet in the school helps address this issue! Schemes like the mid day meal programmes help attract students to schools but in order to retain them, better hygeine facilities need to be given equal importance!
 
 ### Next Steps
  - There have been some limitations to the availability of data as an individual but if you are an research organisation you are eligible to apply for raw data from the DISE. (link shared below)
